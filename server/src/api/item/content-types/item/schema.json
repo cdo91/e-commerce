@@ -38,10 +38,10 @@
       ]
     },
     "shortDescription": {
-      "type": "markdown"
+      "type": "richtext"
     },
     "longDescription": {
-      "type": "markdown"
+      "type": "richtext"
     }
   }
 }
