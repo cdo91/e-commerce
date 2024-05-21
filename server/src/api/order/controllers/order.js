@@ -1,7 +1,7 @@
 // @ts-nocheck
 
 "use strict";
-const stripe = require("stripe")(process.env.STRIPE_SECRET_KEY);
+const stripe = require("stripe")("sk_test_51PIUra04Wv7Ib33iEhRqdFgN3ffjvXmLKvfbQrqcH3R4BsU8dWcAJSapiH7z8Op4zUYCs4cZjCeDWxAPTj9iLPGH00UxtLlq26");
 
 /**
  * order controller
